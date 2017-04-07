@@ -1,2 +1,2 @@
-# dot-files
-Personal config dot files
+# Persona dot-files
+Personal config dot files.
